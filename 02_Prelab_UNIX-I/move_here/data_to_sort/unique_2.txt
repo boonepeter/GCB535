@@ -1,0 +1,35 @@
+apple
+banana
+blackberry
+blueberry
+boysenberry
+carrot
+cherry
+coconut
+dragonfruit
+elderberry
+fig
+figs
+goji berry
+grape
+grapefruit
+guava
+huckleberry
+juniper berry
+lemon
+lime
+lychee
+mango
+mulberry
+orange
+papaya
+peach
+pear
+pineapple
+pumpkin
+quince
+rambutan
+raspberry
+strawberry
+tamarind
+tomato
