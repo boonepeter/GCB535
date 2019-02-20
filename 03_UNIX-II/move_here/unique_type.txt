@@ -1,0 +1,9 @@
+type
+Brain Hippocampus Middle
+Esophagus
+Small Intestine
+Liver
+Lung
+Placenta
+Spleen
+Thymus
